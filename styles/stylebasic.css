@@ -1,0 +1,16 @@
+html{
+    width: 900px;
+    background-color: grey;
+    margin: 0 auto;
+}
+
+body{
+    background-color: white;
+    padding: 10px;
+    
+}
+
+
+h1,h2,h3{
+    color: darkred;
+}
